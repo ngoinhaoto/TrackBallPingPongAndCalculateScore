@@ -1,4 +1,4 @@
-#TrackBallPingPongAndCalculateScore
+# TrackBallPingPongAndCalculateScore
 
 - Clone the repo
 - Run
